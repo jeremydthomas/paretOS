@@ -8,6 +8,7 @@ amplifytools.xcconfig
 .secret-*
 package-lock.json
 stats.html
+.prettierrc
 
 #amplify-do-not-edit-begin
 amplify/\#current-cloud-backend
